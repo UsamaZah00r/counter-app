@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.main{
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+
+.main button{
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 8px;
+}
+.main h1{
+  font-size: 90px;
+  color: rgb(27, 27, 152);
+}
